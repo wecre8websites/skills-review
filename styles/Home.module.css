@@ -30,7 +30,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-grow: 1;
+  flex-grow: 0;
 }
 
 .title a {
@@ -109,8 +109,7 @@
 }
 
 .logo {
-  height: 1em;
-  margin-left: 0.5rem;
+  margin: 0.5rem;
 }
 
 @media (max-width: 600px) {
